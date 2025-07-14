@@ -15,9 +15,6 @@
 - JavaScript (ES6)
 - Git & GitHub
 
-## 📂 Latest Project
-👉 [Form Validation System](https://chiragdhiman99.github.io/form-validation-system/)
-
 ## 🔗 Connect With Me
 - 📫 Email: dhimanchirag99@gmail.com
 - 🌐 Portfolio: coming soon!
