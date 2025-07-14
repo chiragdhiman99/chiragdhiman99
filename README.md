@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Chirag Dhiman
 
-<!--
-**chiragdhiman99/chiragdhiman99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently learning **HTML, CSS, and JavaScript**  
+🚀 I’m building small beginner projects to improve my frontend skills  
+📘 I believe in learning by doing!
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
+- Building basic projects using HTML, CSS, and JavaScript
+- Understanding DOM manipulation and form validation
+- Improving UI/UX of mini projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack (So Far)
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Git & GitHub
+
+## 📂 Latest Project
+👉 [Form Validation System](https://chiragdhiman99.github.io/form-validation-system/)
+
+## 🔗 Connect With Me
+- 📫 Email: dhimanchirag99@gmail.com
+- 🌐 Portfolio: coming soon!
