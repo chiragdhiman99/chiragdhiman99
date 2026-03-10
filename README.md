@@ -24,6 +24,8 @@ An AI-driven resume generator that creates professional resumes instantly.
 - JavaScript (ES6+)
 - Tailwind CSS
 - REST APIs
+- Node js
+- Express js
 - Git & GitHub
 - Responsive Design
 
