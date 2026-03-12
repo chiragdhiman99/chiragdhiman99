@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Chirag Dhiman</h1>
 
 <p align="center">
-  💻 Full Stack Developer &nbsp;|&nbsp; React · Node.js · SQL &nbsp;|&nbsp; AI-Powered Apps
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+SQL;Building+AI-Powered+Apps+%F0%9F%A4%96;Open+to+Internships+%26+Jobs+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 <p align="center">
