@@ -23,7 +23,6 @@ const chirag = {
   learning: ["RAG Pipelines", "Vector Databases", "LLM Integration"],
   techStack: ["React", "Node.js", "Express", "MongoDB", "Python"],
   openTo: "Internships & Full Stack Developer Roles 💼",
-  funFact: "I debug at 2AM and it somehow always works 🌙"
 };
 ```
 
