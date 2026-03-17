@@ -8,7 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-dhimanchirag99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://www.linkedin.com/in/chirag-dhiman-909672264/)](#)
 
 </div>
 
