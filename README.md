@@ -6,11 +6,15 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/gmail-dhimanchirag99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-dhiman-909672264/)
+<a href="mailto:dhimanchirag99@gmail.com">
+<img src="https://img.shields.io/badge/✉️ Email-dhimanchirag99%40gmail.com-EA4335?style=flat-square&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/chirag-dhiman-909672264/">
+<img src="https://img.shields.io/badge/🔗 LinkedIn-Chirag Dhiman-0A66C2?style=flat-square&logoColor=white" />
+</a>
 
 </div>
----
 
 ## 🧑‍💻 About Me
 
