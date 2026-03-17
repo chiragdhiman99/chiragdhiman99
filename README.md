@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-dhimanchirag99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dhimanchirag99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-dhiman-909672264/)
 
 </div>
