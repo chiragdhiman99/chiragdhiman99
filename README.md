@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Node.js+%7C+MongoDB;Building+AI-Powered+Apps+%F0%9F%A4%96;JWT+%7C+OAuth+%7C+REST+APIs;Open+to+Internships+%26+Jobs+%F0%9F%92%BC" alt="Typing SVG" />
 
 <br/>
+
 [![Gmail](https://img.shields.io/badge/gmail-dhimanchirag99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-dhiman-909672264/)
 
