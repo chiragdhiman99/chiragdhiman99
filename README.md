@@ -7,8 +7,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-dhimanchirag99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://www.linkedin.com/in/chirag-dhiman-909672264/)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-dhiman-909672264/)
 
 </div>
 
@@ -27,37 +26,6 @@ const chirag = {
   funFact: "I debug at 2AM and it somehow always works 🌙"
 };
 ```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 AuthFlow — Full Stack Auth App
-A production-ready authentication system with JWT, Google OAuth, and email notifications.
-
-**Live:** [auth-flow2.netlify.app](https://auth-flow2.netlify.app)
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🤖 AI Chatbot — Python
-An AI-powered chatbot built with Python featuring natural language processing.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=openai&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -101,6 +69,20 @@ An AI-powered chatbot built with Python featuring natural language processing.
 
 ---
 
+## ⚡ A Day in My Life
+
+```
+08:00 AM  ☕  Coffee + Read docs
+10:00 AM  💻  Build features, break things
+01:00 PM  🍽️  Lunch break (still thinking about code)
+02:00 PM  🐛  Debug that one weird bug
+05:00 PM  📚  Learn something new
+09:00 PM  🚀  Side project time
+02:00 AM  ✅  "Why does it work now?!" — git commit -m "fix"
+```
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -108,8 +90,7 @@ An AI-powered chatbot built with Python featuring natural language processing.
 **Open to Internships & Full Stack Developer Roles 💼**
 
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-dhiman-909672264/)
 
 <br/>
 
@@ -121,4 +102,4 @@ An AI-powered chatbot built with Python featuring natural language processing.
 
 <div align="center">
   <i>"Code. Learn. Build. Repeat. 🚀"</i>
-</div>>
+</div>
