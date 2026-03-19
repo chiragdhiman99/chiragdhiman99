@@ -21,7 +21,7 @@
 ```javascript
 const chirag = {
   role: "Full Stack Developer",
-  location: "Himachal Pradesh, India 🏔️",
+  location: "Himanchal Pradesh, India 🏔️",
   currentlyBuilding: "AI-Powered MERN Applications",
   learning: ["RAG Pipelines", "Vector Databases", "LLM Integration"],
   techStack: ["React", "Node.js", "Express", "MongoDB", "Python"],
