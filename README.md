@@ -2,7 +2,7 @@
 
 # Hey, I'm Chirag Dhiman 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=150&speed=110&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;MERN+Stack+%7C+Node.js+%7C+MongoDB;AI+Apps+Builder+🤖;Open+to+Work+💼" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=120&speed=160&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;MERN+Stack+%7C+Node.js+%7C+MongoDB;Building+AI+Apps+🤖;Open+to+Work+💼" alt="Typing SVG" />
 
 <br/>
 
