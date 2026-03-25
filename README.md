@@ -25,7 +25,7 @@ const chirag = {
   currentlyBuilding: "AI-Powered MERN Applications",
   learning: ["RAG Pipelines", "Vector Databases", "LLM Integration"],
   techStack: ["React", "Node.js", "Express", "MongoDB", "Python"],
-  openTo: "Internships & Full Stack Developer Roles 💼",
+  openTo: "Internships & Full Stack Developer Role 💼",
 };
 ```
 
