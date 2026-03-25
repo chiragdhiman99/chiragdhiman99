@@ -89,7 +89,7 @@ const chirag = {
 
 <div align="center">
 
-**Open to Internships & Full Stack Developer Roles 💼**
+*Open to Internships & Full Stack Developer Roles 💼*
 
 [![Gmail](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanchirag99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-dhiman-909672264/)
