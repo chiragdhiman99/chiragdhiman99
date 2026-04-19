@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# Hey, I'm Chirag Dhiman 👋
+# Hey, I'm Chirag Dhiman 👋 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=500&duration=2000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+%7C+Node.js+%7C+MongoDB;Building+AI+Apps+%F0%9F%A4%96;Open+to+Work+%F0%9F%92%BC)
 
